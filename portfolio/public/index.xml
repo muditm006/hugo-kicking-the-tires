@@ -1,26 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Mudit&#39;s Portfolio</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Mudit&#39;s Portfolio</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 03 Feb 2025 10:07:01 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Résumé</title>
-      <link>http://localhost:1313/resume/</link>
-      <pubDate>Mon, 03 Feb 2025 10:07:01 -0500</pubDate>
-      <guid>http://localhost:1313/resume/</guid>
-      <description>&lt;p&gt;Hello There!&#xA;This is my Resume&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CIS 2620 TA&lt;/li&gt;&#xA;&lt;li&gt;CIS 3500 Student&lt;/li&gt;&#xA;&lt;li&gt;CIS 1210 Graduate&lt;/li&gt;&#xA;&lt;li&gt;Kings Court English College House RA&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 03 Feb 2025 09:55:26 -0500</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;This is my About page.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mudit's Portfolio</title><link>https://example.org/</link><description>Recent content on Mudit's Portfolio</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2025 10:09:09 -0500</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://example.org/contact/</link><pubDate>Mon, 03 Feb 2025 10:09:09 -0500</pubDate><guid>https://example.org/contact/</guid><description>&lt;p>You can reach me at &lt;a href="mailto:muditm@seas.upenn.edu">muditm@seas.upenn.edu&lt;/a>!&lt;/p></description></item><item><title>Résumé</title><link>https://example.org/resume/</link><pubDate>Mon, 03 Feb 2025 10:07:01 -0500</pubDate><guid>https://example.org/resume/</guid><description>&lt;p>Hello There!
+This is my Resume&lt;/p>
+&lt;ul>
+&lt;li>CIS 2620 TA&lt;/li>
+&lt;li>CIS 3500 Student&lt;/li>
+&lt;li>CIS 1210 Graduate&lt;/li>
+&lt;li>Kings Court English College House RA&lt;/li>
+&lt;/ul></description></item><item><title>About</title><link>https://example.org/about/</link><pubDate>Mon, 03 Feb 2025 09:55:26 -0500</pubDate><guid>https://example.org/about/</guid><description>&lt;p>This is my About page.&lt;/p></description></item></channel></rss>
